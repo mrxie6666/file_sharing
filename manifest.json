@@ -1,0 +1,8 @@
+{
+  "domain": "file_sharing",
+  "name": "File Sharing",
+  "documentation": "https://github.com/mrxie6666/file_sharing",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": []
+}
