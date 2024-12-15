@@ -1,8 +1,12 @@
+
 {
   "domain": "file_sharing",
   "name": "File Sharing",
-  "documentation": "https://github.com/mrxie6666/file_sharing",
-  "requirements": [],
+  "codeowners": ["@_mrxie_"],
   "dependencies": [],
-  "codeowners": []
+  "documentation": "https://github.com/mrxie6666/file_sharing",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/mrxie6666/file_sharing",
+  "requirements": [],
+  "version": "1.0.0"
 }
